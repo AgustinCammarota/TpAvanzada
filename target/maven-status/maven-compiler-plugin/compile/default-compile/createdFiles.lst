@@ -1,0 +1,11 @@
+util\HibernateConfig.class
+entity\Provincia.class
+entity\Telefono.class
+entity\Alianza.class
+entity\Aerolinea.class
+entity\Cliente.class
+entity\Direccion.class
+entity\PasajeroFrecuente.class
+entity\Pais.class
+test\main.class
+entity\Pasaporte.class

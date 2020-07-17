@@ -1,0 +1,1 @@
+INSERT INTO pais (nombre) values ('Brasil');
